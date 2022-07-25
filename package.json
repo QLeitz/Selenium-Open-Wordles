@@ -4,10 +4,10 @@
   "description": "Opens a set of Wordle-clone websites in a new Chrome browser window.",
   "main": "app.js",
   "scripts": {
-    "start": "run app.js"
+    "start": "node app.js"
   },
   "author": "Quentin Leitz",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "selenium-webdriver": "^4.3.1"
   }
