@@ -1,0 +1,14 @@
+{
+  "name": "selenium-open-websites",
+  "version": "1.0.0",
+  "description": "Opens a set of Wordle-clone websites in a new Chrome browser window.",
+  "main": "app.js",
+  "scripts": {
+    "start": "run app.js"
+  },
+  "author": "Quentin Leitz",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.3.1"
+  }
+}
